@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=matheus alexandre&icon=3&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/Magno_Matheus) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/Magno_Matheus) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
