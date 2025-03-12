@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente, estou desenvolvendo meu site portfólio usando Vue, Tailwind e SCSS.<br>🌱 Estou aprendendo novos frameworks como React.<br>⚡ Tenho 2 anos de experiência em programação.<br>🤝 Se precisar de ajuda ou quiser me convidar para um projeto, é só me chamar no Instagram! E eu gosto de dar meu cuzinho!
+🔭 Atualmente, estou desenvolvendo meu site portfólio usando Vue, Tailwind e SCSS.<br>🌱 Estou aprendendo novos frameworks como React.<br>⚡ Tenho 2 anos de experiência em programação.<br>🤝 Se precisar de ajuda ou quiser me convidar para um projeto, é só me chamar no Instagram!
 
 ## 🌐 Mídias:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/R4xq5ZX48X) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheuspea) 
